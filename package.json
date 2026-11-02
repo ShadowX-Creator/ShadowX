@@ -10,12 +10,13 @@
     "whatsapp",
     "whatsapp-web"
   ],
-  "homepage": "https://github.com/WhiskeySockets/Baileys/",
+  "homepage": "https://github.com/ShadowX-Creator/ShadowX",
   "repository": {
-    "url": "git@github.com:WhiskeySockets/Baileys.git"
+    "url": "https://github.com/ShadowX-Creator/ShadowX.git",
+    "type": "git"
   },
   "license": "MIT",
-  "author": "Rajeh Taher",
+  "author": "ShadowX",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -141,5 +142,8 @@
   "packageManager": "yarn@4.9.2",
   "engines": {
     "node": ">=22 <25"
+  },
+  "bugs": {
+    "url": "https://github.com/ShadowX-Creator/ShadowX/issues"
   }
 }
