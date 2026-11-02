@@ -1,6 +1,6 @@
 {
   "name": "shadowx-baileys",
-  "version": "7.0.0-rc13-shadowx.1",
+  "version": "7.0.0-rc13-shadowx.2",
   "description": "ShadowX WhatsApp Web socket library based on the supplied LotusBail RC13 build",
   "keywords": [
     "automation",
